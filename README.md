@@ -71,19 +71,19 @@ Target is to achieve 90% test accuracy within 24 epochs
 
 ## Maximum LR based on Steepest Gradient
 
-![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/MaxLR.jpg)
+![image](https://github.com/paulsamir2010/ERA1_S10/blob/main/MaxLR.jpg)
 
 ## One Cycle Learning Rate
 
-![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/OnecycleLR.jpg)
+![image](https://github.com/paulsamir2010/ERA1_S10/blob/main/OnecycleLR.jpg)
 
 ## Training Losses and Train Accuracy
 
-![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/TrainingLossAcc.jpg)
+![image](https://github.com/paulsamir2010/ERA1_S10/blob/main/TrainingLossAcc.jpg)
 
 ## Misclassified Images
 
-![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/Misclassified.jpg)
+![image](https://github.com/paulsamir2010/ERA1_S10/blob/main/Misclassified.jpg)
 
 ## Results
 
