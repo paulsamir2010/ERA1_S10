@@ -59,7 +59,7 @@ Target is to achieve 90% test accuracy within 24 epochs
 
 ## Model Specification
 
-![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/ModelSummary.jpg)
+![image](https://github.com/paulsamir2010/ERA1_S10/blob/main/ModelSummary.jpg)
 
 ## Organization of files in this repository
 
